@@ -1,0 +1,2 @@
+# ideaschool.me
+Research Blog.
